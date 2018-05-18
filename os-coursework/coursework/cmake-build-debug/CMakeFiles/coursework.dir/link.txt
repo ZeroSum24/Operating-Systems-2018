@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/coursework.dir/buddy.cpp.o CMakeFiles/coursework.dir/sched-rr.cpp.o CMakeFiles/coursework.dir/tarfs.cpp.o ../buddy.o ../sched-rr.o ../tarfs.o  -o coursework 

@@ -1,0 +1,3 @@
+/home/zerosum24/Desktop/OS_CW/os-coursework/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/zerosum24/Desktop/OS_CW/os-coursework/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zerosum24/Desktop/OS_CW/os-coursework/cmake-build-debug/CMakeFiles/os_coursework.dir
